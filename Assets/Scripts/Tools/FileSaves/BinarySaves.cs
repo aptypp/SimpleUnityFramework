@@ -20,7 +20,7 @@ namespace Tools.FileSaves
         }
 
 #if UNITY_EDITOR
-        [MenuItem("AVP/ClearSaves")]
+        [MenuItem("SUF/ClearSaves")]
 #endif
         public static void ClearAllSaves()
         {
