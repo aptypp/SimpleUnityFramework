@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Game.TestProjectObjects
+namespace Game.Game.Test.TestProjectObjects
 {
     public class TestProjectObjects : MonoBehaviour
     {

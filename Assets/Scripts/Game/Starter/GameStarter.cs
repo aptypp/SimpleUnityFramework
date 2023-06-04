@@ -1,9 +1,10 @@
 ﻿using System.Collections;
+using Architecture.Architecture.Extensions;
 using Architecture.Architecture.ScenesManagement;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace Architecture.Architecture.Starter
+namespace Game.Game.Starter
 {
     public class GameStarter : MonoBehaviour
     {

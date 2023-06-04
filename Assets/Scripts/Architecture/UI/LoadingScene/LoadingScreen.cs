@@ -2,7 +2,7 @@
 using Architecture.Architecture.Extensions.Coroutines;
 using UnityEngine;
 
-namespace Game.Game.UI.LoadingScene
+namespace Architecture.Architecture.UI.LoadingScene
 {
     public class LoadingScreen : MonoBehaviour
     {

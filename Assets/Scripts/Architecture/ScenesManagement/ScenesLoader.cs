@@ -2,7 +2,7 @@
 using System.Collections;
 using Architecture.Architecture.ContextObjects;
 using Architecture.Architecture.Contexts;
-using Game.Game.UI.LoadingScene;
+using Architecture.Architecture.UI.LoadingScene;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 

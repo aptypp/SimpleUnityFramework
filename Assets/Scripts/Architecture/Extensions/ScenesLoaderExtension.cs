@@ -1,7 +1,8 @@
 ﻿using Architecture.Architecture.Repositories;
+using Architecture.Architecture.ScenesManagement;
 using UnityEngine;
 
-namespace Architecture.Architecture.ScenesManagement
+namespace Architecture.Architecture.Extensions
 {
     public static class ScenesLoaderExtension
     {
