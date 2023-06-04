@@ -1,7 +1,7 @@
 {
     "name": "GameAssembly",
     "rootNamespace": "Game",
-    "references": ["GUID:e64241675780ae04981c9fe2dbf9ce15"],
+    "references": ["GUID:e64241675780ae04981c9fe2dbf9ce15","GUID:731085947d6a4d1418d20a34763b8753"],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
