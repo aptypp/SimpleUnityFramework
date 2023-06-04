@@ -4,7 +4,7 @@ using UnityEditor;
 using UnityEditor.Callbacks;
 using UnityEngine;
 
-namespace Editor.Scripts.Contexts
+namespace Editor.Editor.Scripts.Architecture.Contexts
 {
     public class ProjectContextInitializer
     {
